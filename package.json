@@ -1,13 +1,13 @@
 {
-  "name": "toxic-panel",
+  "name": "Mishra.ji-panel",
   "version": "1.0.0",
-  "description": "TOXIC X Panel - Device Management Console",
+  "description": "Mishra.ji - Device Management Console",
   "main": "index.html",
   "scripts": {
     "deploy": "vercel",
     "dev": "echo 'Just open index.html in browser'"
   },
   "keywords": ["vercel", "html", "panel"],
-  "author": "TOXIC",
+  "author": "Mishra.ji",
   "license": "ISC"
 }
