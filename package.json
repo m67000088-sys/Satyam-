@@ -1,7 +1,7 @@
 {
   "name": "Mishra.ji-panel",
   "version": "1.0.0",
-  "description": "Mishra.ji - Device Management Console",
+  "description": "Mishra.ji- Device Management Console",
   "main": "index.html",
   "scripts": {
     "deploy": "vercel",
